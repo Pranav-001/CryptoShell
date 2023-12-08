@@ -15,8 +15,7 @@ from shell.api import (
 from shell.core import add_command, run_shell
 
 STARTUP_DOC = f"""{f.YELLOW}
-    HEDShell
-    LICENCE: MIT
+    CryptoShell
     Language: {f.CYAN}Python3.10{f.YELLOW}
     Description: A tool to hash, encode, decode text
     Commands: hash, encode, decode, help, exit
