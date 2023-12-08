@@ -1,10 +1,3 @@
-"""
-HEDShell
-Date: 10/18/2022
-LICENCE: MIT
-Language: Python3.10
-"""
-
 from time import sleep
 
 from colorama import Fore as f
