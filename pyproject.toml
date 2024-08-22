@@ -1,8 +1,8 @@
 [tool.poetry]
-name = "shellroast"
+name = "pranav"
 version = "0.0.1"
 description=""
-authors = ["Arjan <hi@arjancodes.com>"]
+authors = ["pranav <pramittal001@gmail.com>"]
 license = "MIT"
 readme = "README.md"
 
